@@ -86,7 +86,7 @@ nav img{
 	.text-box p{
 		font-size:12px;
 	}
-	.nav-links ul li{
+	/*.nav-links ul li{
 		display:block;
 	}
 	.nav-links{
@@ -98,7 +98,7 @@ nav img{
 		right:0;
 		text-align:left;
 		z-index:2;
-	}
+	}*/
 	.Tigungu{
 		flex-direction:column;
 	}
